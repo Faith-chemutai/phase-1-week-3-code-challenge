@@ -77,5 +77,5 @@ JavaScript to remove the placeholder element before populating the list.
       }
    ]
 
- note: click on each the list of movies to display the image and the availaable number of tickets
-      => once clicked the available number of tickets are less by one or by the the number of tickets bought
+ note: click on each the list of movies to display the image and the availaable number of tickets.
+      => once clicked the available number of tickets are less by one or by the the number of tickets bought.
