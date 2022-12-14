@@ -1,13 +1,12 @@
-```sh
+
 #Flatdango
-```
 Flatiron Movie Theater is open for business! You will be building out an
 application, Flatdango, that allows a user to purchase movie tickets from the
 theater.
 
 ## setup
 install json serve by running the code:
-``sh
+
 npm install -g json-server
 
 To watch the db.json server run the code:
